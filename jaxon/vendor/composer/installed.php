@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'codeinwp/jaxon',
-        'pretty_version' => 'v1.0.11',
-        'version' => '1.0.11.0',
-        'reference' => '9a094b03bae92f2ce60802f173857af87000dd13',
+        'pretty_version' => 'v1.0.12',
+        'version' => '1.0.12.0',
+        'reference' => 'f5a450c246b164976feda4d561ba9639ec6d9774',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,18 +11,18 @@
     ),
     'versions' => array(
         'codeinwp/jaxon' => array(
-            'pretty_version' => 'v1.0.11',
-            'version' => '1.0.11.0',
-            'reference' => '9a094b03bae92f2ce60802f173857af87000dd13',
+            'pretty_version' => 'v1.0.12',
+            'version' => '1.0.12.0',
+            'reference' => 'f5a450c246b164976feda4d561ba9639ec6d9774',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'codeinwp/themeisle-sdk' => array(
-            'pretty_version' => '3.3.48',
-            'version' => '3.3.48.0',
-            'reference' => '0727d2cf2fc9bfb81b42968aeaf2bf4e340f021e',
+            'pretty_version' => '3.3.52',
+            'version' => '3.3.52.0',
+            'reference' => 'd1ae68cbd4f84934b4d982e9eeff317b9f4c814a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../codeinwp/themeisle-sdk',
             'aliases' => array(),
